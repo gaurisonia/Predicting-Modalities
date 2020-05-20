@@ -1,2 +1,2 @@
 # Predicting-Modalities
-Predicted students modalities using classification model
+In our major porject we predicted students modalities using single feed-forward neural network
